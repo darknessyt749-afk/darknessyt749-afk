@@ -1,8 +1,15 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm not_da4k</h1>
 <h3 align="center">Aspiring Cybersecurity & Software Developer</h3>
-
 <p align="center">
-  <a href="![](https://komarev.com/ghpvc/?username=darknessyt749-afk&base=1000)>
+  <a href="https://github.com/darknessyt749-afk">
+    <img src="https://komarev.com/ghpvc/?username=darknessyt749-afk&base=1000" alt="Profile views" />
+  </a>
+</p>
+```
+
+
+
+
     <img src="https://komarev.com/ghpvc/?username=darknessyt749-afk&label=Profile%20views&color=00FFFF&style=flat-square" alt="darknessyt749-afk's profile views" />
   </a>
 </p>
