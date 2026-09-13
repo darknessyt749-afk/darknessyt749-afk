@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Cybersecurity & Software Developer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=darknessyt749-afk">
+  <a href="![](https://komarev.com/ghpvc/?username=darknessyt749-afk&base=1000)
     <img src="https://komarev.com/ghpvc/?username=darknessyt749-afk&label=Profile%20views&color=00FFFF&style=flat-square" alt="darknessyt749-afk's profile views" />
   </a>
 </p>
