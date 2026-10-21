@@ -1,7 +1,9 @@
-![Uploading cash-counter.webp…]()
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Not_da4k</h1>
 
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
+![Uploading f8e007d7c19a5ebf500910dffaf05098.jpg…]()
+
 
 ## 📌 About Me
 - 🐍 Building with Python and creating useful tools
