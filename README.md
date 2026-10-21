@@ -2,7 +2,8 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Not_da4k</h1>
 
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
-![Uploading dotted-hands-projects-folder.gif…]()
+![Banner](<img width="734" height="336" alt="dotted-hands-projects-folder" src="https://github.com/user-attachments/assets/cd6bc433-0dd7-4124-9370-42f25c1b18cb" />
+)
 
 
 ## 📌 About Me
