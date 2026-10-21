@@ -8,7 +8,6 @@
 - 🧠 Exploring LLMs, AI models, and Generative AI
 - 🤖 Experimenting with local AI models using Ollama
 - ⚡ Turning ideas into real-world projects
-- 🔐 Improving my programming and cybersecurity skills
 - 💡 Constantly learning, experimenting, and pushing my limits
 
 
