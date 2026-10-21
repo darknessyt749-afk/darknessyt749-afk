@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Not_da4k</h1>
 
-<img width="563" height="317" alt="train-yuji" src="https://github.com/user-attachments/assets/b2c74377-c203-4974-a1a3-7fcf39e547f6" />
+<img width="1980" height="1080" alt="train-yuji" src="https://github.com/user-attachments/assets/b2c74377-c203-4974-a1a3-7fcf39e547f6" />
 
 
 
